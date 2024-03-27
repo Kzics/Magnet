@@ -1,0 +1,7 @@
+main: com.magnet.Main
+version: 1.0.0
+name: Magnet
+api-version: 1.13
+commands:
+  magnet:
+    description: Magnet command
