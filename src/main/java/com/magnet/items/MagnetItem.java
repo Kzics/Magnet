@@ -1,5 +1,7 @@
-package com.magnet;
+package com.magnet.items;
 
+import com.magnet.Magnet;
+import com.magnet.Main;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.Damageable;
 import org.bukkit.inventory.meta.ItemMeta;
