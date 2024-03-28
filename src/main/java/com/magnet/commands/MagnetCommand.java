@@ -1,10 +1,9 @@
-package commands;
+package com.magnet.commands;
 
 import com.magnet.Magnet;
-import com.magnet.MagnetItem;
+import com.magnet.items.MagnetItem;
 import com.magnet.Main;
 import org.bukkit.ChatColor;
-import org.bukkit.Material;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
